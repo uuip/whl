@@ -1,0 +1,1 @@
+docker build --build-arg polars_version=0.20.20  --output . .
